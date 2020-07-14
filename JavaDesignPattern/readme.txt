@@ -1,3 +1,7 @@
+sample cmd to create new project:
+mvn archetype:generate -DgroupId=com.look -DartifactId=Adapter_1 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+
 『増補改訂版Java言語で学ぶデザインパターン入門』結城浩著
 ソフトバンクパブリッシング(株)刊
 http://www.hyuki.com/dp/
